@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VJ_Projects\\vijay_projrcts\\cAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0E7964-1112-4F99-B7C0-FC54A9FD167F}|WebApplication1.csproj|d:\\vj_projects\\vijay_projrcts\\capi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0E7964-1112-4F99-B7C0-FC54A9FD167F}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0E7964-1112-4F99-B7C0-FC54A9FD167F}|WebApplication1.csproj|d:\\vj_projects\\vijay_projrcts\\capi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C0E7964-1112-4F99-B7C0-FC54A9FD167F}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0E7964-1112-4F99-B7C0-FC54A9FD167F}|WebApplication1.csproj|d:\\vj_projects\\vijay_projrcts\\capi\\datacontext\\dataaccesscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0E7964-1112-4F99-B7C0-FC54A9FD167F}|WebApplication1.csproj|solutionrelative:datacontext\\dataaccesscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0E7964-1112-4F99-B7C0-FC54A9FD167F}|WebApplication1.csproj|d:\\vj_projects\\vijay_projrcts\\capi\\dataentities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0E7964-1112-4F99-B7C0-FC54A9FD167F}|WebApplication1.csproj|solutionrelative:dataentities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VJ_Projects\\vijay_projrcts\\cAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\VJ_Projects\\vijay_projrcts\\cAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T17:35:19.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccessContext.cs",
+              "DocumentMoniker": "D:\\VJ_Projects\\vijay_projrcts\\cAPI\\DataContext\\DataAccessContext.cs",
+              "RelativeDocumentMoniker": "DataContext\\DataAccessContext.cs",
+              "ToolTip": "D:\\VJ_Projects\\vijay_projrcts\\cAPI\\DataContext\\DataAccessContext.cs",
+              "RelativeToolTip": "DataContext\\DataAccessContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:31:56.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VJ_Projects\\vijay_projrcts\\cAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VJ_Projects\\vijay_projrcts\\cAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:10:24.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\VJ_Projects\\vijay_projrcts\\cAPI\\DataEntities\\Users.cs",
+              "RelativeDocumentMoniker": "DataEntities\\Users.cs",
+              "ToolTip": "D:\\VJ_Projects\\vijay_projrcts\\cAPI\\DataEntities\\Users.cs",
+              "RelativeToolTip": "DataEntities\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:10:09.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

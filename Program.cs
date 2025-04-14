@@ -22,14 +22,16 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-using (var scope = app.Services.CreateScope())
-{
-    var services = scope.ServiceProvider;
+//using (var scope = app.Services.CreateScope())
+//{
+//    var services = scope.ServiceProvider;
 
-    var context = services.GetRequiredService<DataAccessContext>();
-    context.Database.Migrate();
-}
+//    var context = services.GetRequiredService<DataAccessContext>();
+//    context.Database.Migrate();
+//}
 
+//app.Services.CreateScope().ServiceProvider.GetRequiredService<DataAccessContext>().Database.Migrate();
+app.Services.CreateScope().ServiceProvider.GetRequiredService<DataAccessContext>().Database.Migrate();
 
 app.UseHttpsRedirection();
 

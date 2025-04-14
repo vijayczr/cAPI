@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VJ_Projects\\cAPI\\WebApplication1.csproj": {}
+    "D:\\VJ_Projects\\vijay_projrcts\\cAPI\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\VJ_Projects\\cAPI\\WebApplication1.csproj": {
+    "D:\\VJ_Projects\\vijay_projrcts\\cAPI\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VJ_Projects\\cAPI\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\VJ_Projects\\vijay_projrcts\\cAPI\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\VJ_Projects\\cAPI\\WebApplication1.csproj",
+        "projectPath": "D:\\VJ_Projects\\vijay_projrcts\\cAPI\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\vjvij\\.nuget\\packages\\",
-        "outputPath": "D:\\VJ_Projects\\cAPI\\obj\\",
+        "outputPath": "D:\\VJ_Projects\\vijay_projrcts\\cAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vjvij\\AppData\\Roaming\\NuGet\\NuGet.Config",
